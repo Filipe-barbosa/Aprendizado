@@ -1,6 +1,6 @@
 const readline = require('readline-sync');//importa o readline-sync para ler algo digitado
-//Alteração de teste
 //Gera numero aleatório
+
 const aleatorio = parseInt(Math.random()* 10)+1;
 
 
